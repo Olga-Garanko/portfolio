@@ -20,7 +20,7 @@ min-width: 320px;
 body {
 	color: $clr;
 	background-color: #adb3d7;
-	font-family: "Myriad Pro", Tahoma,Arial, sans-serif;
+	font-family: "Myriad Pro", Tahoma, Arial, sans-serif;
 	font-size: $fsz;
 }
 a {
@@ -32,14 +32,15 @@ a {
 h1 {
 	font-size: $fsz*3;
 	padding: 0px 0px 20px 0px;
-	font-style: italic;
 	color: #fff;
+	font-family: "Squada One", cursive;
+	text-transform: uppercase;
 }
 h2 {
 	font-size: $fsz*2;
 	padding: 0px 0px 10px 0px;
-	font-style: italic;
 	color: #fff;
+	font-family: "Squada One", cursive;
 }
 h3 {
 	font-size: $fsz*1.5;
